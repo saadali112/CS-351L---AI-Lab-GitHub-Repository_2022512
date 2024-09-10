@@ -3,7 +3,7 @@
 
 ## AI Number Guessing Game 
 
-This project features three distinct AI-based number guessing game approaches, where the AI attempts to guess a number between 1 and 100 based on player feedback using three different strategies:
+This lab task features three distinct AI-based number guessing game approaches, where the AI attempts to guess a number between 1 and 100 based on player feedback using three different strategies:
 
 Randomized BFS Approach: The AI performs a Breadth-First Search (BFS)-inspired strategy, randomly selecting guesses from a queue. Based on player feedback ('h' for too high, 'l' for too low, and 'c' for correct), the AI adjusts its remaining possible guesses and tries to narrow down the correct number.
 
