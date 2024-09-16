@@ -3,7 +3,7 @@
 
 Welcome to the **AI Lab Course (CS 351L)**! In this repository, you will explore various concepts in Artificial Intelligence (AI) through hands-on exercises and projects using Python. The course focuses on practical implementations of AI techniques, algorithms, and tools commonly used in the field of AI and cybersecurity.
 
-![image](https://github.com/user-attachments/assets/4a3f93ba-d62b-4f0c-898a-7cf188b21a8e)
+![image](https://github.com/user-attachments/assets/80e2839b-29aa-48fb-bc90-1bc8ae7c0cec)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
