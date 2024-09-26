@@ -5,7 +5,6 @@ Welcome to the **AI Lab Course (CS 351L)**! In this repository, you will explore
 
 ![image_processing20191115-17035-1dck5td](https://github.com/user-attachments/assets/90681768-0056-424f-a8b3-c104a519ab87)
 
-![images](https://github.com/user-attachments/assets/62e1606e-0138-4718-aa50-0cb5cd9277f8)
 
 
 ## 📚 **Course Content**
